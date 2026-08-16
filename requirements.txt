@@ -1,0 +1,29 @@
+
+# Core
+numpy==2.4.3
+pandas==2.3.3
+scikit-learn==1.6.1
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Model & utils
+xgboost==3.4.0
+lightgbm
+joblib
+cloudpickle
+category-encoders
+imbalanced-learn
+shap
+
+# I/O and extras
+openpyxl
+statsmodels
+Pillow
+fpdf
+streamlit==1.55.0
+scipy==1.17.1
+
+
