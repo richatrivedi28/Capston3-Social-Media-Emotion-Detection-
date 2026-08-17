@@ -14,7 +14,7 @@ st.set_page_config(
 
 st.title("🌟📱 Social Media — Dominant Emotion Predictor")
 st.info(
-    "Use the sidebar for a single prediction, or upload a CSV for batch predictions."
+    "1.Use the sidebar for a single row prediction 2. upload a CSV for batch predictions(Multiple Rows)."
 )
 
 # These are the features expected by the saved training pipelines.
