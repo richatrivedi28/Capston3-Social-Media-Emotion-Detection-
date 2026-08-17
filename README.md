@@ -64,4 +64,4 @@ streamlit run app.py
 
 Notes
 - The app expects one of the trained model files to exist in the working folder: `optimized_random_forest_model.pkl` or `optimized_xgboost_model.pkl`.
-- If you don't have those files, run the notebook `social_media_vs_emotions_eda_model_99_acc_1608.ipynb` to train and save them.
+- If you don't have those files, run the notebook `Batch13-Social_Media_Emotion_Detection_Richa_Trivedi.ipynb` to train and save them.
